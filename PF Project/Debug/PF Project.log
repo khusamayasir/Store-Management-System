@@ -1,0 +1,6 @@
+﻿  PF Project.cpp
+E:\Semester No 1\CS-116T & CS-116L Programming Fundamental\PF Project\PF Project\PF Project.cpp(45,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Semester No 1\CS-116T & CS-116L Programming Fundamental\PF Project\PF Project\PF Project.cpp(46,14): warning C4101: 'i': unreferenced local variable
+E:\Semester No 1\CS-116T & CS-116L Programming Fundamental\PF Project\PF Project\PF Project.cpp(88,21): warning C4101: 'p_q': unreferenced local variable
+E:\Semester No 1\CS-116T & CS-116L Programming Fundamental\PF Project\PF Project\PF Project.cpp(271,42): warning C4101: 'receipt': unreferenced local variable
+  PF Project.vcxproj -> E:\Semester No 1\CS-116T & CS-116L Programming Fundamental\PF Project\Debug\PF Project.exe
